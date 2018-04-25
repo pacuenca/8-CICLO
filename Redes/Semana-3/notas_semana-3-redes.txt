@@ -1,0 +1,15 @@
+IP datgrama format
+* La longitud d ecabecera se saca de acuerdo a los campos que aprecen en la cabecera. son 32 bit y existen 4 bytes y eso
+se multiplica con el # de campos d ela cabecera.
+
+* Cuánta sobrecarga util a l paquete? 20 bytes de TCP  + 20 bytes de IP =  40 bytes + app
+
+* Que es MTU capacidad fisica maxima, osea del medio utilizado en la red.
+
+* Una dirección IP , identifica d eforma lógica a un equipo y esta dividido en 4 octetos. y el valor máximo del octeto es 255.
+  Las partes de IP son 2: 1.El rango la subred 2.parte de host como identifico el equipo en esta red.
+
+* IPV4 la misma cantidad de interfaces con las direcciones IP.
+
+* 
+ 
